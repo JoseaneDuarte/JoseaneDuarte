@@ -9,6 +9,6 @@ Tenho foco em **desenvolvimento back-end**, com domínio em **Java** e **Spring 
 Sou entusiasta de boas práticas, organização de sistemas e código limpo. Estou sempre em busca de novos aprendizados e desafios no mundo da tecnologia.
 
 📬 Contatos: 
-📧 E-mail: codebyjoz@gmail.com  
+📧codebyjoz@gmail.com  
 
 LinkedIn: joseane-duarte-silva
